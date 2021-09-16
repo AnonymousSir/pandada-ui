@@ -1,0 +1,8 @@
+examples/
+packages/
+node_modules/
+public/
+
+vue.config.js
+label.config.js
+*.map

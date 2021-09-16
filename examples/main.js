@@ -1,6 +1,10 @@
 import Vue from 'vue'
 import App from './App.vue'
+<<<<<<< HEAD
 import pandaUI from './packages/index.js'
+=======
+import pandaUI from '../packages/index.js'
+>>>>>>> master
 
 Vue.config.productionTip = false
 Vue.use(pandaUI)
