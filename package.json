@@ -1,18 +1,11 @@
 {
   "name": "pandada-ui",
-<<<<<<< HEAD
-  "version": "0.1.2",
-  "private": false,
-  "main": "dist/panda-ui.umd.min.js",
-  "author": "namelessir",
-=======
-  "version": "0.1.3",
+  "version": "0.1.5",
   "private": false,
   "main": "dist/panda-ui.umd.min.js",
   "author": {
     "name": "XLP"
   },
->>>>>>> master
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",

@@ -1,15 +1,17 @@
 <template>
   <div id="app">
-<<<<<<< HEAD
     <pan-button>按钮</pan-button>
-=======
-    <pan-button type="primary">按钮</pan-button>
->>>>>>> master
+    <pan-switch v-model="s"></pan-switch>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: 'App',
+  data () {
+    return {
+      s: true
+    }
+  }
 }
 </script>
